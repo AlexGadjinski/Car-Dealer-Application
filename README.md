@@ -23,9 +23,9 @@ The system supports the following core functionalities:
 The system supports various queries and exports the results in structured XML format:
 
 #### **Query 1 – Ordered Customers**  
-- Get all customers ordered by birthdate (ascending).  
+- Gets all customers ordered by birthdate (ascending).  
 - Customers with the same birthdate are sorted with experienced drivers listed first.  
-- Export to `ordered-customers.xml`.  
+- Exports to `ordered-customers.xml`.  
 
 Example:
 ```xml
