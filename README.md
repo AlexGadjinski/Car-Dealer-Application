@@ -12,12 +12,12 @@ The system supports the following core functionalities:
 
 ## Features
 ### ✅ **Data Import**
-- Import data from XML files:
-  - `suppliers.xml` – Import suppliers.
-  - `parts.xml` – Import parts and randomly assign them to suppliers.
-  - `cars.xml` – Import cars and randomly assign 10–20 parts to each car.
-  - `customers.xml` – Import customer information.
-  - Generate sales records by randomly selecting cars, customers, and discount rates.
+- Imports data from XML files:
+  - `suppliers.xml` – Imports suppliers.
+  - `parts.xml` – Imports parts and randomly assigns them to suppliers.
+  - `cars.xml` – Imports cars and randomly assigns 3-5 parts to each car.
+  - `customers.xml` – Imports customer information.
+  - Generates sales records by randomly selecting cars, customers, and discount rates.
 
 ### ✅ **Queries and Data Export**
 The system supports various queries and exports the results in structured XML format:
